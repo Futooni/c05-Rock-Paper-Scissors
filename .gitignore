@@ -1,0 +1,18 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build folders
+Debug/
+Release/
+x64/
